@@ -1,6 +1,3 @@
-fjgjigijf
-
-
 #Input the student name, value of final quizzes, final research/assignment. final project, and final exam
 Student_Name=str(input("Enter Student name:"))
 Final_Quiz=float(input("Enter Final Quiz grade:"))
