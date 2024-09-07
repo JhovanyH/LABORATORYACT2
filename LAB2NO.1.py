@@ -12,7 +12,7 @@ Final_Exam=float(input("Enter Final exam grade:"))
 Final_Grade=(0.30*Final_Quiz)+(0.10*Final_Research)+(0.40*Final_Exam)+(0.20*Final_Project)
 if Final_Grade>100:
     print("Error: Must not exceed 100")
-else:print("Your Final Grade is:","\033[31mFinal_Grade\033[31m")
+else:print("Your Final Grade is:", Final_Grade)
 
 #Determine the equivalent grade using the conditions:
 def Equivalent_Grade():
