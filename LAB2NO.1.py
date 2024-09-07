@@ -1,4 +1,4 @@
-
+fjgjigijf
 
 
 #Input the student name, value of final quizzes, final research/assignment. final project, and final exam
