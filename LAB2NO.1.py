@@ -10,7 +10,7 @@ Final_Grade=(0.30*Final_Quiz)+(0.10*Final_Research)+(0.40*Final_Exam)+(0.20*Fina
 if Final_Grade>100:
     print("Error: Must not exceed 100")
 else:print("Your Final Grade is:",Final_Grade)
-#mama mo
+    #papa mo
 #Determine the equivalent grade using the conditions:
 def Equivalent_Grade():
     if Final_Grade>=98 and Final_Grade<=100:
